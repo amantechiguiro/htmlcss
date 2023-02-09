@@ -1,0 +1,45 @@
+body{background-color: aquamarine;}
+h1{
+   color: brown;
+   font-size: larger;
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center; 
+}
+h2{
+    color: blue;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+h3{
+   color: blueviolet;
+   font-size: smaller;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif   ;
+   text-align: right;
+}
+table, th,td,tr{color: black;
+    border: 1px solid;
+    width: 50%;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+  }
+div{
+    width: 26%;
+    height: 100%;
+    background-color: chartreuse;
+    margin: 0.5%;
+    float: left;
+    padding: 3%;
+}
+#left{
+    float: left;
+}
+#center{
+    float: center;
+}
+#rigth{
+    float: right;
+}
